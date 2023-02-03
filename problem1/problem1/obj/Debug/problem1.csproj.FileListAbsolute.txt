@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Ayesha\Coffee Shop\problem1\problem1\bin\Debug\problem1.exe.config
+C:\Users\DELL\Desktop\Ayesha\Coffee Shop\problem1\problem1\bin\Debug\problem1.exe
+C:\Users\DELL\Desktop\Ayesha\Coffee Shop\problem1\problem1\bin\Debug\problem1.pdb
+C:\Users\DELL\Desktop\Ayesha\Coffee Shop\problem1\problem1\obj\Debug\problem1.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Ayesha\Coffee Shop\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Ayesha\Coffee Shop\problem1\problem1\obj\Debug\problem1.exe
+C:\Users\DELL\Desktop\Ayesha\Coffee Shop\problem1\problem1\obj\Debug\problem1.pdb
+D:\BSCS\Second Semester\C#\Week 05 PD\Coffee Shop\problem1\problem1\bin\Debug\problem1.exe.config
+D:\BSCS\Second Semester\C#\Week 05 PD\Coffee Shop\problem1\problem1\bin\Debug\problem1.exe
+D:\BSCS\Second Semester\C#\Week 05 PD\Coffee Shop\problem1\problem1\bin\Debug\problem1.pdb
+D:\BSCS\Second Semester\C#\Week 05 PD\Coffee Shop\problem1\problem1\obj\Debug\problem1.csproj.AssemblyReference.cache
+D:\BSCS\Second Semester\C#\Week 05 PD\Coffee Shop\problem1\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+D:\BSCS\Second Semester\C#\Week 05 PD\Coffee Shop\problem1\problem1\obj\Debug\problem1.exe
+D:\BSCS\Second Semester\C#\Week 05 PD\Coffee Shop\problem1\problem1\obj\Debug\problem1.pdb
