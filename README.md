@@ -37,7 +37,7 @@ The advantages of Coffee Shop Management System can be pinpointed to the followi
 ### End-Users
 <br>
 
-End-Users of Hospital Management System are:
+End-Users of Coffee Shop Management System are:
 
 - Shop Owner / Admin
 - Customer
